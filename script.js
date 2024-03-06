@@ -11,5 +11,6 @@ function features() {
   console.log(`this is feature 4`);
   console.log(`this is feature 4`);
   console.log(`this is feature 6`);
+  console.log(`this is feature 7`);
 }
 features();
