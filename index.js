@@ -12,3 +12,7 @@ function is18() {
 function feata() {
   console.log(`this is feature a`);
 }
+
+function sub_feat_a() {
+  console.log(`this is sub feature a`);
+}
