@@ -8,5 +8,6 @@ function features() {
   console.log(`This is feature 1`);
   console.log(`This is feature 2`);
   console.log(`this is feature 3`);
+  console.log(`this is feature 4`);
 }
 features();
