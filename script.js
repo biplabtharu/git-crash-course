@@ -1,5 +1,5 @@
 function script() {
-  console.log(`script file added`);
+  console.log(`script file added new and new`);
 }
 
 script();
