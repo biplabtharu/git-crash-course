@@ -8,3 +8,7 @@ const age = 20;
 function is18() {
   return age > 18;
 }
+
+function feata() {
+  console.log(`this is feature a`);
+}
